@@ -19,11 +19,13 @@
 ## Test
 
 - pytest: https://docs.pytest.org/en/latest/
-- 
+
 ## Packaging
 
+
+- Setuptools: https://setuptools.readthedocs.io/en/latest/index.html
 - pip-tools: https://github.com/jazzband/pip-tools
-- 
+
 
 ## Web 
 
@@ -34,6 +36,7 @@
 ## General Learning
 
 - Learning Python the hard way, https://learnpythonthehardway.org/python3/
+- Python 3 bits, https://github.com/arogozhnikov/python3_with_pleasure
 
 
 ## Vim as Python IDE
@@ -46,6 +49,9 @@
 - Using flake8 in Vim, https://github.com/nvie/vim-flake8
 
 - PEP8 style: http://pep8.org/
-- 
 
+## Misc
+
+* Build Cross-platform app: https://github.com/mherrmann/fbs
+ 
 
